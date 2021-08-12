@@ -1,0 +1,10 @@
+.main-title {
+  display: flex;
+  height: 5rem;
+  width: 25rem;
+  border: 1px solid black;
+}
+
+h1 {
+  margin-right: 1.5rem;
+}
